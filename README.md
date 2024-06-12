@@ -1,4 +1,4 @@
---## Logistics Smart Contract
+--## Smart Contract
 
 ### Overview
 This repository contains a Solidity smart contract for managing logistics operations. It allows customers to order items, carriers to update the transit status, and owners to manage carriers.
