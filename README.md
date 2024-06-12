@@ -19,7 +19,7 @@ This repository contains a Solidity smart contract for managing logistics operat
 ### Contract Details
 
 - **Contract Name:** Logistics
-- **Solidity Version:** 0.4.24
+- **Solidity Version:** 0.8.26
 - **Owner:** Address of the contract deployer
 - **Key Functions:**
   - `manageCarriers(address _carrierAddress)`
