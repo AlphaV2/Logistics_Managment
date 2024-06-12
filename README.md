@@ -49,6 +49,3 @@ This repository contains a Solidity smart contract for managing logistics operat
 ### License
 This project is licensed under the MIT License.
 
----
-
-Feel free to modify or expand this outline based on your specific requirements and additional details you want to include in your repository.
